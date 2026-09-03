@@ -23,6 +23,7 @@ Pure freelancing platforms.
 - [Gigster](https://gigster.com/)
 - [Gun.io](https://gun.io/)
 - [Guru](https://www.guru.com/)
+- [Malt](https://www.malt.com/) - Freelancing in Europe.
 - [People Per Hour](https://www.peopleperhour.com/)
 - [TopCoder](https://www.topcoder.com)
 - [Toptal](https://www.toptal.com/)
